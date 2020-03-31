@@ -1,6 +1,5 @@
 A library for Dart developers.
 
-Created from templates made available by Stagehand under a BSD-style
 [license](https://github.com/ishaileshmishra/url_params/blob/master/LICENSE).
 
 ## Usage
