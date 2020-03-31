@@ -1,6 +1,6 @@
 name: url_params
-description: A starting point for Dart libraries or applications.
-version: 0.0.1
+description: This package helps to add query parameters to a Dart that appends the '?param1=one&param2=two' to the url.
+version: 1.0.0
 homepage: https://github.com/ishaileshmishra/url_params
 
 environment:
