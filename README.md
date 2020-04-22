@@ -9,7 +9,7 @@ A simple usage example:
 ```dart
 import 'package:url_params/src/base.dart';
 
-//[Append Query Parameters]
+## [Append Query Parameters]
 main() {
   var query = URLParams();
   query.append('key', 'value');
@@ -17,7 +17,7 @@ main() {
   print(result);
 }
 
-//[Append With Complete Url]
+## [Append With Complete Url]
 main() {
   var query = URLParams();
   query.append('key', 'value');
