@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:params/src/base.dart';
+import 'package:params/url_params.dart';
 
 void main() {
   group('A group of tests', () {

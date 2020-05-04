@@ -34,6 +34,6 @@ class URLParams {
         return '$newURL?${toString()}';
       }
     }
-    return '$url?${toString()}';;
+    return '$url?${toString()}';
   }
 }
