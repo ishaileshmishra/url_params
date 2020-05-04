@@ -1,11 +1,5 @@
-A library for Dart/Flutter developers.
-
-[license](https://github.com/ishaileshmishra/url_params/blob/master/LICENSE).
-
+example/lib/main.dart
 #url_param
-
-![Coverage](https://github.com/ishaileshmishra/url_params/master/coverage_badge.svg?sanitize=true)
-
 
 ## use as following
 Add this to your package's pubspec.yaml file under dependency:
@@ -33,7 +27,3 @@ Now in your Dart code, you can use:
       var result = query.toUrl('https://cdn.example.io');
       print(result);
     }
-
-## Features and bugs
-Please file feature requests and bugs at the [issue tracker][tracker].
-[tracker]: https://github.com/ishaileshmishra/url_params/issues
