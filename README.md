@@ -5,7 +5,6 @@ A library for Dart/Flutter developers.
 # url_param
 
 ![Coverage](https://github.com/ishaileshmishra/url_params/blob/master/coverage_badge.svg?sanitize=true)
-![Dart CI](https://github.com/ishaileshmishra/url_params/workflows/Dart%20CI/badge.svg)
 ![pub.dev](https://github.com/ishaileshmishra/url_params/workflows/Dart%20CI/badge.svg)
 ![GitHub issues](https://img.shields.io/github/issues/ishaileshmishra/url_params)
 ![GitHub forks](https://img.shields.io/github/forks/ishaileshmishra/url_params)
