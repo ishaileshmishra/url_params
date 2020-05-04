@@ -1,8 +1,5 @@
-A library for Dart/Flutter developers.
+# url_param: A Library For Dart/Flutter Developers.
 
-[license](https://github.com/ishaileshmishra/url_params/blob/master/LICENSE).
-
-# url_param
 
 ![Coverage](https://github.com/ishaileshmishra/url_params/blob/master/coverage_badge.svg?sanitize=true)
 ![pub.dev](https://github.com/ishaileshmishra/url_params/workflows/Dart%20CI/badge.svg)
