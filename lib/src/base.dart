@@ -1,4 +1,5 @@
 class URLParams {
+
   final Map<String, String> _values = {};
 
   /// toString concat the params using ? and & and returns [String]
