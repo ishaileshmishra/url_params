@@ -32,7 +32,7 @@ with Flutter:
 
 Now in your Dart code, you can use:
 
-    import 'package:params/src/base.dart';
+    import 'package:params/url_params.dart';
 
 ## Use it like below example
 
