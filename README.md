@@ -5,7 +5,6 @@ A library for Dart/Flutter developers.
 # url_param
 
 ![Coverage](https://github.com/ishaileshmishra/url_params/blob/master/coverage_badge.svg?sanitize=true)
-![Dart CI](https://github.com/ishaileshmishra/url_params/workflows/Dart%20CI/badge.svg)
 ![pub.dev](https://github.com/ishaileshmishra/url_params/workflows/Dart%20CI/badge.svg)
 ![GitHub issues](https://img.shields.io/github/issues/ishaileshmishra/url_params)
 ![GitHub forks](https://img.shields.io/github/forks/ishaileshmishra/url_params)
@@ -18,7 +17,7 @@ A library for Dart/Flutter developers.
 Add this to your package's pubspec.yaml file under dependency:
 
     dependencies:
-      url_param: ^1.0.2
+      url_param: ^1.0.3
 
 ## Install it
 
@@ -32,7 +31,7 @@ with Flutter:
 
 Now in your Dart code, you can use:
 
-    import 'package:params/src/base.dart';
+    import 'package:url_params/params.dart';
 
 ## Use it like below example
 

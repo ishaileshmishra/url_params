@@ -5,7 +5,7 @@
 Add this to your package's pubspec.yaml file under dependency:
 
     dependencies:
-      url_param: ^1.0.2
+      url_param: ^1.0.3
 
 ## Install it
 
@@ -19,7 +19,7 @@ with Flutter:
 
 Now in your Dart code, you can use:
 
-    import 'package:params/src/base.dart';
+    import 'package:url_params/params.dart';
 
 ## Use it like below example
 
