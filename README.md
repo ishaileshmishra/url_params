@@ -13,26 +13,28 @@ A library for Dart/Flutter developers.
 ![GitHub license](https://img.shields.io/github/license/ishaileshmishra/url_params)
 ![Twitter](https://img.shields.io/twitter/url?url=https://www.twitter.com/ishailesmishra)
 
-
 ## use as following
+
 Add this to your package's pubspec.yaml file under dependency:
 
     dependencies:
       url_param: ^1.0.2
 
 ## Install it
+
 You can install packages from the command line:
 
 with Flutter:
 
-    $ flutter pub get
-    
+    flutter pub get
+
 ## Import it
+
 Now in your Dart code, you can use:
 
     import 'package:params/src/base.dart';
 
-## Use it like below example:
+## Use it like below example
 
     void main() {
       var query =  URLParams();
@@ -42,5 +44,6 @@ Now in your Dart code, you can use:
     }
 
 ## Features and bugs
+
 Please file feature requests and bugs at the [issue tracker][tracker].
 [tracker]: https://github.com/ishaileshmishra/url_params/issues
