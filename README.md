@@ -17,7 +17,7 @@ main() {
   print(result);
 }
 
-## [Append With Complete Url]
+## Append With Complete Url
 main() {
   var query = URLParams();
   query.append('key', 'value');

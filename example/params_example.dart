@@ -1,5 +1,5 @@
 
-import 'package:url_params/src/base.dart';
+import 'package:params/src/base.dart';
 
 void main() {
 
