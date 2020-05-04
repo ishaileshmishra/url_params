@@ -4,8 +4,8 @@ A library for Dart/Flutter developers.
 
 #url_param
 
-![Coverage](https://github.com/ishaileshmishra/url_params/master/coverage_badge.svg?sanitize=true)
-
+![Coverage](https://github.com/ishaileshmishra/url_params/blob/master/coverage_badge.svg?sanitize=true)
+![Dart CI](https://github.com/ishaileshmishra/url_params/workflows/Dart%20CI/badge.svg)
 
 ## use as following
 Add this to your package's pubspec.yaml file under dependency:
