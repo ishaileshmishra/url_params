@@ -1,4 +1,4 @@
-import 'package:url_params/url_params.dart';
+import 'package:url_params/params.dart';
 
 void main() {
   var query =  URLParams();
