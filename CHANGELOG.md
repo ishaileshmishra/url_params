@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.1.0
+
+- Updated
+
 ## 1.0.3
 
 - breaking changes
