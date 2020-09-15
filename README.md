@@ -3,11 +3,8 @@
 
 ![Coverage](https://github.com/ishaileshmishra/url_params/blob/master/coverage_badge.svg?sanitize=true)
 ![pub.dev](https://github.com/ishaileshmishra/url_params/workflows/Dart%20CI/badge.svg)
-![GitHub issues](https://img.shields.io/github/issues/ishaileshmishra/url_params)
-![GitHub forks](https://img.shields.io/github/forks/ishaileshmishra/url_params)
 ![GitHub stars](https://img.shields.io/github/stars/ishaileshmishra/url_params)
 ![GitHub license](https://img.shields.io/github/license/ishaileshmishra/url_params)
-![Twitter](https://img.shields.io/twitter/url?url=https://www.twitter.com/ishailesmishra)
 
 ## use as following
 
