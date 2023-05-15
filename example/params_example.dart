@@ -1,8 +1,6 @@
-import 'package:url_params/params.dart';
+import 'package:url_params/url_params.dart';
 
 void main() {
-  var query =  URLParams();
-  query.append('key', 'value');
-  var result = query.toUrl('https://cdn.example.io');
+  var result = 'https://cdn.example.io';
   print(result);
 }

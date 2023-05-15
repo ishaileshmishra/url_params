@@ -4,5 +4,6 @@
 /// In any Flutter or Dart project if you need to append the url parameters
 library params;
 
-export 'src/base.dart';
-export 'src/service.dart';
+void main(List<String> args) {
+  print('object');
+}
