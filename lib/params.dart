@@ -5,3 +5,4 @@
 library params;
 
 export 'src/base.dart';
+export 'src/service.dart';

@@ -27,7 +27,7 @@ class URLParams {
   /// It accepts base [url] to concat to the params
   /// returns complete [url]
   String toUrl(String url) {
-    if (url != null && url.isNotEmpty) {
+    if (url.isNotEmpty) {
       if (url.endsWith('/')) {
         final newURL = url.substring(0, url.length - 1);
         return '$newURL?${toString()}';
