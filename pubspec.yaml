@@ -5,12 +5,12 @@ version: 1.1.1
 homepage: https://github.com/ishaileshmishra/url_params
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.15.1 <3.0.0"
 
 dependencies:
+  cupertino_icons: ^1.0.1
   path: ^1.6.0
   logger: ^0.9.1
-  dartdoc: ^0.33.0
   dio: ^4.0.0
 
 dev_dependencies:
